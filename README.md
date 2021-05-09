@@ -2,6 +2,12 @@
 
 Make sure you install all the dependencies required 
 
+Transformations include 
+  - Translation
+  - Scaling
+  - Rotation
+  - Reflection
+
 ## Some examples
 
 ### Rotation
