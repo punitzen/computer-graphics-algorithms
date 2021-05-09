@@ -2,8 +2,13 @@
 
 Make sure you install all the dependencies required 
 
+## Some examples
+
+### Rotation
 ![rotation](images/rotation.png)
 
-![rotation](images/midpoint.png)
+### Mid point circle
+![midpoint](images/midpoint.png)
 
-![rotation](images/bresenham.png)
+### Bresenham Line
+![bresenham](images/bresenham.png)
