@@ -8,13 +8,4 @@ Transformations include
   - Rotation
   - Reflection
 
-## Some examples
-
-### Rotation
-![rotation](images/rotation.png)
-
-### Mid point circle
-![midpoint](images/midpoint.png)
-
-### Bresenham Line
-![bresenham](images/bresenham.png)
+![demo gif](images/algos_demo.gif)
